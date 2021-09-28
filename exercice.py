@@ -21,5 +21,6 @@ def checkers(n, premiere_case=0):
 
 print(checkers(2))
 
+print("ABAABABABA")
 
 # %%
